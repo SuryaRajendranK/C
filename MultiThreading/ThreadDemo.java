@@ -2,7 +2,7 @@ package MultiThreading;
 
 public class ThreadDemo {
     public static void main(String[] args) {
-        //
+        //using lamda expression to minimize the code
         Runnable obj = () -> {
             for (int i = 1; i < 100; i++) {
                 System.out.println("hi");
