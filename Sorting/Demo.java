@@ -1,4 +1,4 @@
-package Sample;
+package Sorting;
 
 public class Demo {
     
